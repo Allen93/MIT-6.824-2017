@@ -1,3 +1,7 @@
+# 个人学习
+* Fork from https://github.com/chaozh/MIT-6.824-2017
+* 在分支提交作业
+
 # MIT-6.824-2017
 Basic Sources for MIT 6.824 Distributed Systems Class
 
